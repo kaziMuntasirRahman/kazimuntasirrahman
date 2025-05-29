@@ -1,74 +1,82 @@
-# 👋 As-salāmu ʿalaykum! I'm Montasir Rahman
+<h1 align="center">👋 As-salāmu ʿalaykum! I'm <span style="color:#4fc3f7;">Montasir Rahman</span> 👨‍💻</h1>
 
-**MERN Stack Developer | Full-Stack Web Enthusiast | Lifelong Learner**
+<p align="center">
+  🌐 MERN Stack Developer | 🎓 CS Student | 🚀 Tech Explorer | 💡 Lifelong Learner
+</p>
 
-I'm a third-year Computer Science student with a deep passion for creating dynamic, responsive, and scalable web applications. I love bringing ideas to life through code and solving real-world problems with clean and efficient solutions.
-
----
-
-## 🧠 About Me
-
-- 🎓 Studying B.Sc. in Computer Science & Engineering  
-- 💻 Passionate about Web Development & Modern JavaScript  
-- 🌱 Currently learning advanced backend techniques and deployment strategies  
-- 👨‍💻 I enjoy building full-stack projects using React, Node.js, Express, and MongoDB  
-- 🤝 Open to internships, collaborations, and freelance opportunities  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Web+Developer+%7C+MERN+Stack;React+%7C+Node+%7C+MongoDB+%7C+Express;Always+learning+%F0%9F%92%AA;Let's+build+together!+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-### 💻 Languages & Frontend
-- HTML5, CSS3, JavaScript (ES6+)
-- TailwindCSS, DaisyUI
-- React.js, JSX, REST APIs
+- 🎓 3rd-year CSE Student passionate about solving real-world problems with code  
+- 💻 Skilled in building full-stack applications using the MERN stack  
+- 🔄 Constantly exploring new technologies & contributing to open-source  
+- 🌱 Currently learning: **Next.js**, **WebSocket**, and **Advanced Backend Systems**
+- 🧠 Favorite part of development: **Turning ideas into interactive products**
 
-### 🔙 Backend & Database
-- Node.js, Express.js
-- MongoDB, Firebase (Auth, Hosting)
+---
 
-### 🔧 Tools & Platforms
-- Git & GitHub
-- VS Code
-- Vercel, Netlify
-- Postman, Chrome DevTools
+## 🚀 Tech Stack & Tools
+
+### 🔷 Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
+![DaisyUI](https://img.shields.io/badge/-DaisyUI-7C3AED?style=flat&logo=tailwind-css)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+
+### 🔶 Backend & DB
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
+
+### 🔧 Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify)
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaziMuntasirRahman&show_icons=true&theme=tokyonight" alt="Montasir's GitHub Stats" />
-</p>
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kaziMuntasirRahman&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=kaziMuntasirRahman&theme=tokyonight&hide_border=true" />
+</div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaziMuntasirRahman&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaziMuntasirRahman&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaziMuntasirRahman&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🧩 Featured Projects
+## 🌟 Featured Projects
 
-- 🔗 [TechHunt](https://tech-hunt-client.vercel.app) — Discover & share trending tech tools  
-- 🔗 [FreeShare](https://free-share0.web.app/) — Share content anonymously, even without an account  
-- 🔗 [Nostalix](https://nostalix.netlify.app) — Explore, organize, and cherish your digital memories  
-- 🔗 [Espresso Emporium](https://espresso-emporium.netlify.app) — An e-commerce coffee store
-
-Check out more on my [GitHub Repositories](https://github.com/kaziMuntasirRahman?tab=repositories)
-
----
-
-## 📫 Let's Connect!
-
-- 📧 Email: kazimuntasirrahman@gmail.com  
-- 🌐 Portfolio: [kazimuntasirrahman.netlify.app](https://kazimuntasirrahman.netlify.app)  
-- 🔗 LinkedIn: [linkedin.com/in/kaziMuntasirRahman](https://www.linkedin.com/in/kazimuntasirrahman)  
-- 📍 Location: Dhaka, Bangladesh  
+| Project | Description | Live |
+|--------|-------------|------|
+| 🧠 **TechHunt** | Discover & share trending tech tools | [Visit](https://tech-hunt-client.vercel.app) |
+| 🔐 **FreeShare** | Anonymous content sharing – no account needed | [Visit](https://free-share0.web.app/) |
+| 📸 **Nostalix** | Organize your digital memories | [Visit](https://nostalix.netlify.app) |
+| ☕ **Espresso Emporium** | Full-stack coffee store app | [Visit](https://espresso-emporium.netlify.app) |
 
 ---
 
-**Jajhakallah** for visiting! Feel free to connect — let’s build and grow together, Insha’Allah! 🌟
+## 📬 Let’s Connect!
+
+- 🔗 **Portfolio:** [kazimuntasirrahman.netlify.app](https://kazimuntasirrahman.netlify.app)  
+- 💼 **LinkedIn:** [linkedin.com/in/kaziMuntasirRahman](https://www.linkedin.com/in/kazimuntasirrahman)  
+- 📧 **Email:** kazimuntasirrahman@gmail.com  
+- 📍 **Location:** Dhaka, Bangladesh  
+
+---
+
+<p align="center">🫶 Jajhakallah for visiting! Let's build something impactful together, Insha’Allah. 💙</p>
