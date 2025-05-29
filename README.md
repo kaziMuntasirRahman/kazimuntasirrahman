@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 3rd-year CSE Student passionate about solving real-world problems with code  
+- 🎓 Final year CSE Student passionate about solving real-world problems with code  
 - 💻 Skilled in building full-stack applications using the MERN stack  
 - 🔄 Constantly exploring new technologies & contributing to open-source  
 - 🌱 Currently learning: **Next.js**, **WebSocket**, and **Advanced Backend Systems**
