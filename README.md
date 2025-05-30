@@ -61,9 +61,7 @@
 </div>
 
 <p align="center">
-<div style="border-radius:15px; overflow:hidden; box-shadow:0 0 20px rgba(0,0,0,0.4); width:420px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaziMuntasirRahman&layout=compact&theme=radical&hide_border=true" "/>
-</div>
+<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaziMuntasirRahman&layout=compact&theme=radical&hide_border=false&title_color=FFA500&bg_color=0d1117&text_color=ffffff&border_radius=10" />
 </p>
 
 ---
