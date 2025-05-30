@@ -61,7 +61,7 @@
 </div>
 
 <p align="center">
-<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaziMuntasirRahman&layout=compact&theme=radical&hide_border=false&title_color=FFA500&bg_color=0d1117&text_color=ffffff&border_radius=10" />
+<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaziMuntasirRahman&theme=radical&hide_border=false&title_color=FFA500&bg_color=0d1117&text_color=ffffff&border_radius=10" />
 </p>
 
 ---
