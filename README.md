@@ -47,6 +47,12 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kaziMuntasirRahman&theme=tokyonight&no-frame=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ## 📈 GitHub Stats
 
 <div align="center">
