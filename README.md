@@ -86,4 +86,4 @@
 
 ---
 
-<p align="center">🫶 Jajhakallah for visiting! Let's build something impactful together, Insha’Allah. 💙</p>
+<p align="center">Jajhakallah for visiting! Let's build something impactful together, Insha’Allah. </p>
