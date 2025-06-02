@@ -68,7 +68,7 @@
 
 ## 🌟 Featured Projects
 
-| Project | Description | Live |
+| Project | Description | Live Link|
 |--------|-------------|------|
 | 🧠 **TechHunt** | Discover & share trending tech tools | [Visit](https://tech-hunt-client.vercel.app) |
 | 🔐 **FreeShare** | Anonymous content sharing – no account needed | [Visit](https://free-share0.web.app/) |
