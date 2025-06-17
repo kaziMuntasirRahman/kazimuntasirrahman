@@ -1,7 +1,7 @@
 <h1 align="center">👋 As-salāmu ʿalaykum! I'm <span style="color:#4fc3f7;">Kazi Muntasir Rahman</span> </h1>
 
 <p align="center">
-  🌐 MERN Stack Developer | 🎓 BSC in CSE | 🚀 Tech Explorer | 💡 Lifelong Learner
+  🌐 MERN Stack Developer | 🎓 BSc in CSE | 🚀 Tech Explorer | 💡 Lifelong Learner
 </p>
 
 <p align="center">
