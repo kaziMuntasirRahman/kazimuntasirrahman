@@ -46,7 +46,7 @@ I believe in:
 
 ### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind" />
 </p>
 
 ### ⚙️ Backend
@@ -56,7 +56,7 @@ I believe in:
 
 ### 🗄️ Database & ORM
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,firebase" />
+  <img src="https://skillicons.dev/icons?i=postgres,prisma,mongodb,firebase" />
 </p>
 
 ### 🧰 Tools & Platforms
@@ -75,14 +75,6 @@ I believe in:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaziMuntasirRahman&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
----
-
-## 🔥 GitHub Contribution Streak Performance
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaziMuntasirRahman&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </p>
 
 ---
