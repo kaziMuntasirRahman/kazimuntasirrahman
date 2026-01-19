@@ -44,9 +44,14 @@ I believe in:
 
 ## 🛠️ Tech Stack
 
+### 🌐 Language
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts" />
+</p>
+
 ### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,next,tailwind" />
 </p>
 
 ### ⚙️ Backend
