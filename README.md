@@ -49,7 +49,7 @@ I believe in:
   <img src="https://skillicons.dev/icons?i=js,ts" />
 </p>
 
-### 🌐 Frontend
+### 👔 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=react,next,tailwind" />
 </p>
