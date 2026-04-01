@@ -11,17 +11,17 @@ Full-Stack Developer | MERN + Next.js | TypeScript
 
 ## Professional Summary
 
-I am a **Full-Stack Web Developer** focused on building **real-world, production-ready applications**.
+I am a **Full-Stack Web Developer with 4 months of hands-on experience**, focused on building **real-world, production-ready applications**.
 
-I enjoy working across the entire stack — from **database design and APIs** to **clean and responsive user interfaces**.
+I work across the entire stack — from **database design and backend APIs** to **modern, responsive user interfaces**.
 
-I also work with **Technical SEO**, ensuring applications are properly indexed and optimized using tools like **Google Search Console, sitemaps, and structured metadata**.
+I also have experience with **Technical SEO**, ensuring applications are properly indexed and optimized using tools like **Google Search Console, sitemaps, and structured metadata**.
 
 I believe in:
 
 - Clean and readable code  
 - Scalable architecture  
-- Learning by building  
+- Problem-solving mindset  
 - Discipline and consistency  
 
 ---
@@ -29,12 +29,13 @@ I believe in:
 ## About Me
 
 - **BSc in Computer Science & Engineering (CSE)**
+- **4+ months experience** as a Full-Stack Developer
 - Strong in **MERN Stack + Next.js**
 - Type-safe development using **TypeScript**
 - Experience with **Prisma and PostgreSQL**
 - Experience with **Technical SEO and indexing optimization**
 
-Currently learning:
+### Currently learning:
 
 - Advanced **Next.js**
 - **WebSockets and real-time systems**
@@ -138,6 +139,6 @@ Success requires:
 - Discipline  
 - Consistency  
 
-Insha'Allah I aim to grow as a better developer and a better human being.
+With continuous learning and real-world experience, I aim to grow as a better developer and a better human being, Insha'Allah.
 
 Jajhakallah for visiting my profile.
