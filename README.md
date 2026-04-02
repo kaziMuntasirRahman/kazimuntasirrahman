@@ -89,15 +89,16 @@ I believe in:
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
 </p>
 
-### SEO & Web Optimization
+### SEO & Optimization
 
-* Technical SEO
-* Google Search Console
-* Sitemap and News Sitemap implementation
-* robots.txt configuration
-* Google News indexing
-* Structured metadata (Next.js)
-* URL and slug optimization
+<p>
+<img src="https://skillicons.dev/icons?i=google" />
+</p>
+
+- Technical SEO  
+- Search Console  
+- Sitemap & robots.txt  
+- Structured data 
 
 ---
 
