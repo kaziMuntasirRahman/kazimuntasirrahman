@@ -91,9 +91,6 @@ I believe in:
 
 ### SEO & Optimization
 
-<p>
-<img src="https://skillicons.dev/icons?i=google" />
-</p>
 
 - Technical SEO  
 - Search Console  
