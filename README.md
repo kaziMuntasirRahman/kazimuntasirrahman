@@ -40,13 +40,13 @@ I believe in:
 
 ## Experience
 
-### Full-Stack Developer — Infolet (4 months)
+### Full-Stack Developer — Infolet (Nov 2025 – Mar 2026)
 
-* Developed and maintained full-stack applications using MERN, Next.js, and TypeScript
-* Built REST APIs and managed backend logic
-* Worked with MongoDB, PostgreSQL, and Prisma ORM
+* Developed and maintained full-stack applications using MERN, Next.js, and TypeScript  
+* Built REST APIs and managed backend logic  
+* Worked with MongoDB, PostgreSQL, and Prisma ORM  
 * Improved performance and implemented SEO optimizations
-
+  
 ---
 
 ## Currently Learning
