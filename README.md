@@ -1,6 +1,6 @@
 <h1 align="center">As-salāmu ʿalaykum, I'm Kazi Muntasir Rahman</h1>
 <h3 align="center">
-Full-Stack Developer | MERN + Next.js | TypeScript
+Full-Stack Developer | Next.js + Express.js | TypeScript
 </h3>
 
 <p align="center">
