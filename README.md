@@ -15,7 +15,7 @@ I am a **Full-Stack Web Developer focused on building production-ready applicati
 
 I work across the entire stack — from **database design and backend APIs** to **modern, responsive user interfaces**.
 
-I also have experience with **Technical SEO**, ensuring applications are properly indexed and optimized using tools like **Google Search Console, sitemaps, and structured metadata**.
+I also have experience in building Production Level websites with **Technical SEO**, ensuring applications are properly indexed and optimized using tools like **Google Search Console, sitemaps, and structured metadata**.
 
 I focus on building **scalable, performant, and user-friendly web applications**.
 
