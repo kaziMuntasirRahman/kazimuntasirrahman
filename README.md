@@ -122,7 +122,6 @@ I believe in:
 | Project           | Description                            | Live                                  |
 | ----------------- | -------------------------------------- | ------------------------------------- |
 | TechHunt          | Discover and share trending tech tools | https://tech-hunt-client.vercel.app   |
-| FreeShare         | Anonymous content sharing platform     | https://free-share0.web.app           |
 | Nostalix          | Organize and preserve digital memories | https://nostalix.netlify.app          |
 | Espresso Emporium | Full-stack coffee store application    | https://espresso-emporium.netlify.app |
 
